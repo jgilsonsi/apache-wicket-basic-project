@@ -1,1 +1,1 @@
-Exemplo de projeto Web usando framework Apache Wicket.
+Projeto base usando framework Apache Wicket.
